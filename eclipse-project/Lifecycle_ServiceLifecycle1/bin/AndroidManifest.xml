@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="de.ecspride"
+    package="xx.xxx"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -17,7 +17,7 @@
         android:theme="@style/AppTheme" >
         
         <service
- 		 android:name="de.ecspride.MainService"
+ 		 android:name="xx.xxx.MainService"
  		 android:label="MainService"
  		 >
 		</service>

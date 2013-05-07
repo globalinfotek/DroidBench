@@ -1,8 +1,8 @@
 /**
  * @testcase_name 
  * @version 
- * @author 
- * @author_mail 
+ * @author (will be included in public version)
+ * @author_mail (will be included in public version)
  * 
  * @description <describe the general purpose of the testcase>
  * @dataflow <describe the dataflow from source to sink>
