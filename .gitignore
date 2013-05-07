@@ -1,0 +1,4 @@
+/eclipse-project/*/bin/classes
+/eclipse-project/*/gen
+/eclipse-project/*/bin/jarlist.cache
+/.metadata
